@@ -1,2 +1,2 @@
 # cisco-devasc
-# Fot The purpose of learning cisco DEVNET
+# For The purpose of learning cisco DEVNET
